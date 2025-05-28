@@ -1,5 +1,5 @@
 import CEJ_Beats from "./CEJ_Beats.png";
-import Petcare from "./petcare.png";
+import Petcare from "./Petcare.png";
 import AnimalRescue from "./Animal_Rescue.png";
 import MV_Monitoring from "./MV_Monitoring.png";
 import Viable_Integration_Platform from "./Viable_Integration_Platform.png";
