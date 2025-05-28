@@ -22,7 +22,7 @@ const projects = [
         excerpt: "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout",
       },
       {
-        name: "Petcare",
+        name: "Pet Care",
         category: "App Design",
         link: "https://www.figma.com/design/gXn1v2oJnO98N6uvGPu4H2/Pet-Care?t=ZBvDtkPHRNlZxJQE-0",
         thumbnail: Petcare,

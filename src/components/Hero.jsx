@@ -44,6 +44,7 @@ const Hero = () => {
         alt="graphicsPurple"
         className="absolute top-0 right-0 pointer-events-none max-w-2xs"
       />
+       
       <div className="max-w-[1366px] w-full mx-auto">
         <div className="min-h-screen flex justify-between items-center flex-wrap">
           <div className="sm:max-w-[540px] w-full">
@@ -83,7 +84,7 @@ const Hero = () => {
                   <FaStar className="text-[#FD6F00]" />
                 </div>
                 <h3 className="text-white text-center text-2xl font-bold">
-                  2+ Years
+                  3 Years
                 </h3>
                 <p className="text-white text-center opacity-70">Experience</p>
               </div>

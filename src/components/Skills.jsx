@@ -1,11 +1,13 @@
 import React from "react";
-import { FaHtml5 } from "react-icons/fa";
+import { FaHtml5, FaWordpress } from "react-icons/fa";
 import { FaFigma } from "react-icons/fa";
 import { FaCss3 } from "react-icons/fa";
 import { IoLogoJavascript } from "react-icons/io";
 import { FaBootstrap } from "react-icons/fa";
 import { FaReact } from "react-icons/fa";
 import Progress from "./Progress";
+import { BiLogoTailwindCss } from "react-icons/bi";
+import { DiPhotoshop } from "react-icons/di";
 
 const Skills = () => {
   return (
@@ -37,6 +39,15 @@ const Skills = () => {
               </div>
               <div className="h-32 w-full aspect-square rounded-md flex justify-center items-center bg-zinc-900">
                 <FaCss3 className="text-gray-400 text-4xl" title="CSS" />
+              </div>
+              <div className="h-32 w-full aspect-square rounded-md flex justify-center items-center bg-zinc-900">
+                <BiLogoTailwindCss className="text-gray-400 text-4xl" title="Tailwind CSS" />
+              </div>
+                <div className="h-32 w-full aspect-square rounded-md flex justify-center items-center bg-zinc-900">
+                <FaWordpress className="text-gray-400 text-4xl" title="Wordpress" />
+              </div>
+               <div className="h-32 w-full aspect-square rounded-md flex justify-center items-center bg-zinc-900">
+                <DiPhotoshop className="text-gray-400 text-4xl" title="Adobe Photoshop" />
               </div>
               <div className="h-32 w-full aspect-square rounded-md flex justify-center items-center bg-zinc-900">
                 <IoLogoJavascript
