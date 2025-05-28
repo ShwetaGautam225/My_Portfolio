@@ -87,7 +87,7 @@ const About = () => {
         <div class="relative border border-gray-700 rounded-sm p-4">
           <span class="absolute -left-9 top-5 w-5 h-5 bg-[#FD6F00] border-2 border-black rounded-full"></span>
           <h3 class="text-lg font-semibold">Software Developer</h3>
-          <p class="text-sm text-gray-300">Singsys Pte. Ltd.<br/>Lucknow, India</p>
+          <p class="text-sm text-gray-300">Barrownz Pearl Web Pte. Ltd.<br/>Lucknow, India</p>
           <p class="text-xs italic text-gray-400 mt-1">Jun 2022 – Jun 2023</p>
         </div>
 
